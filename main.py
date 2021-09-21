@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 #define function 
-def sumdiff(x,y):
+def sumDiff( x, y):
     return((x+y)-(x-y))
 
-print(sumdiff(10,5))
+print(sumDiff(10,5))
