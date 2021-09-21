@@ -3,5 +3,5 @@
 def sumdiff(x,y):
     return((x+y)-(x+y)-x-y)
 
-print(sumdiff(4,14))
+print(sumdiff(10,5))
 
